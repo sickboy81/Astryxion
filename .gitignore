@@ -1,0 +1,32 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*.tmp
+*.bak
+
+# Editor / AI (local only)
+.cursor/
+.vscode/
+.opencode/
+.claude/
+
+# Temporary / Debug / Sample data
+res.json
+res2.json
+dashboard.js.tmp.js
+tmp_check.txt
+tmp/
+
+# One-off development test scripts
+test-*.js
+verify-*.js
+
+# Production / Merge artifacts
+**/*.temp.txt
+**/*.temp2.txt
+**/iching.ts.final.txt
