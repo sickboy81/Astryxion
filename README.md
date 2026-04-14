@@ -11,7 +11,7 @@ It covers **Western tropical astrology** (planets, houses, aspects, **Swiss Ephe
 [![Fastify](https://img.shields.io/badge/Fastify-5-000000?logo=fastify&logoColor=white)](https://fastify.dev/)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](./LICENSE)
 
-**Live demo:** [https://astryxion.com](https://astryxion.com)  
+**Live:** [https://astryxion.com](https://astryxion.com)  
 **OpenAPI:** `https://astryxion.com/api/v1/openapi.json` · **Swagger UI:** `https://astryxion.com/docs`  
 _(Local dev default: `http://localhost:3000`)_
 
